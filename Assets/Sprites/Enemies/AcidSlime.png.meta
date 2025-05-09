@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 367d66d1b2b713e42b6bde97af09452f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4125379368373245967
+    second: AcidSlime_0
+  - first:
+      213: 1141509105982586229
+    second: AcidSlime_1
+  - first:
+      213: -9111977520926294471
+    second: AcidSlime_2
+  - first:
+      213: 7543491024909901911
+    second: AcidSlime_3
+  - first:
+      213: -6613814619234660720
+    second: AcidSlime_4
+  - first:
+      213: 5347870502498659538
+    second: AcidSlime_5
+  - first:
+      213: -3263900213464987586
+    second: AcidSlime_6
+  - first:
+      213: -5872273878337391693
+    second: AcidSlime_7
+  - first:
+      213: -45556516938606262
+    second: AcidSlime_8
+  - first:
+      213: 4373445148714488243
+    second: AcidSlime_9
+  - first:
+      213: 310281213569664114
+    second: AcidSlime_10
+  - first:
+      213: -529051328358856752
+    second: AcidSlime_11
+  - first:
+      213: -7624078004373239800
+    second: AcidSlime_12
+  - first:
+      213: -6746764503575446143
+    second: AcidSlime_13
+  - first:
+      213: -7213280071771868301
+    second: AcidSlime_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 156
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AcidSlime_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 618
+        width: 187
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08dc97adaa404930800000000000000
+      internalID: 4125379368373245967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 618
+        width: 187
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d37f1eb7477df00800000000000000
+      internalID: 1141509105982586229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 618
+        width: 187
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ef7d7d8b0cb8180800000000000000
+      internalID: -9111977520926294471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 618
+        width: 187
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7502a1abe1ddfa860800000000000000
+      internalID: 7543491024909901911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 312
+        width: 188
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e8b3235a20734a0800000000000000
+      internalID: -6613814619234660720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 312
+        width: 188
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dce83643e3773a40800000000000000
+      internalID: 5347870502498659538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 312
+        width: 188
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38091a7c0c44b2d0800000000000000
+      internalID: -3263900213464987586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_7
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 312
+        width: 188
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3f4e1350e718ea0800000000000000
+      internalID: -5872273878337391693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 19
+        width: 188
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7c831be9e68a8f0800000000000000
+      internalID: -529051328358856752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 19
+        width: 188
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808c679f275d13690800000000000000
+      internalID: -7624078004373239800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_13
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 19
+        width: 188
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dbb2d0e6dae52a0800000000000000
+      internalID: -6746764503575446143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidSlime_14
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 19
+        width: 202
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37332a80ef745eb90800000000000000
+      internalID: -7213280071771868301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f5a2aa18f07bc204b80ab97451b5a20b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AcidSlime_0: 4125379368373245967
+      AcidSlime_1: 1141509105982586229
+      AcidSlime_10: 310281213569664114
+      AcidSlime_11: -529051328358856752
+      AcidSlime_12: -7624078004373239800
+      AcidSlime_13: -6746764503575446143
+      AcidSlime_14: -7213280071771868301
+      AcidSlime_2: -9111977520926294471
+      AcidSlime_3: 7543491024909901911
+      AcidSlime_4: -6613814619234660720
+      AcidSlime_5: 5347870502498659538
+      AcidSlime_6: -3263900213464987586
+      AcidSlime_7: -5872273878337391693
+      AcidSlime_8: -45556516938606262
+      AcidSlime_9: 4373445148714488243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: ee73d73b8c45f1d46ba6ffa11a88f6e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3268420083093058852
+    second: BossBurnerBeetle_0
+  - first:
+      213: -7003963663239320657
+    second: BossBurnerBeetle_1
+  - first:
+      213: -6789720185275843308
+    second: BossBurnerBeetle_2
+  - first:
+      213: -8336418070868906564
+    second: BossBurnerBeetle_3
+  - first:
+      213: 679738081245311354
+    second: BossBurnerBeetle_4
+  - first:
+      213: -6483272874918915394
+    second: BossBurnerBeetle_5
+  - first:
+      213: 4289483900007208582
+    second: BossBurnerBeetle_6
+  - first:
+      213: 5954821323089538950
+    second: BossBurnerBeetle_7
+  - first:
+      213: -8868668040731014130
+    second: BossBurnerBeetle_8
+  - first:
+      213: -4266465410186107248
+    second: BossBurnerBeetle_9
+  - first:
+      213: 8958341741666176501
+    second: BossBurnerBeetle_10
+  - first:
+      213: -5837568552112710149
+    second: BossBurnerBeetle_11
+  - first:
+      213: -7209103937977497739
+    second: BossBurnerBeetle_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossBurnerBeetle_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 495
+        width: 195
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda4c72504d34a2d0800000000000000
+      internalID: -3268420083093058852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 495
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab60e8282cecce90800000000000000
+      internalID: -7003963663239320657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 495
+        width: 221
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d7558077116c1a0800000000000000
+      internalID: -6789720185275843308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 495
+        width: 220
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd26bacee71f4c80800000000000000
+      internalID: -8336418070868906564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 264
+        width: 202
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71bee8fe2aee6900800000000000000
+      internalID: 679738081245311354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 265
+        width: 206
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2588c8ba9c606a0800000000000000
+      internalID: -6483272874918915394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_6
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 264
+        width: 221
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686dfa161ee478b30800000000000000
+      internalID: 4289483900007208582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 264
+        width: 220
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f6caf7176c3a250800000000000000
+      internalID: 5954821323089538950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 31
+        width: 195
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c4e59b7692ce480800000000000000
+      internalID: -8868668040731014130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 31
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096ad5b60587ac4c0800000000000000
+      internalID: -4266465410186107248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 31
+        width: 220
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd0198c95c625c70800000000000000
+      internalID: 8958341741666176501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBurnerBeetle_11
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 32
+        width: 219
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd9453a45accfea0800000000000000
+      internalID: -5837568552112710149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 82e15eef615858b4882de58604960c51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossBurnerBeetle_0: -3268420083093058852
+      BossBurnerBeetle_1: -7003963663239320657
+      BossBurnerBeetle_10: 8958341741666176501
+      BossBurnerBeetle_11: -5837568552112710149
+      BossBurnerBeetle_12: -7209103937977497739
+      BossBurnerBeetle_2: -6789720185275843308
+      BossBurnerBeetle_3: -8336418070868906564
+      BossBurnerBeetle_4: 679738081245311354
+      BossBurnerBeetle_5: -6483272874918915394
+      BossBurnerBeetle_6: 4289483900007208582
+      BossBurnerBeetle_7: 5954821323089538950
+      BossBurnerBeetle_8: -8868668040731014130
+      BossBurnerBeetle_9: -4266465410186107248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: a835bbe3a9924514489b1f02e5abeb28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7017832466303363970
+    second: ToxicDrone (1)_0
+  - first:
+      213: -6628604280038203705
+    second: ToxicDrone (1)_1
+  - first:
+      213: 2509993997357138616
+    second: ToxicDrone (1)_2
+  - first:
+      213: 6103986194050411012
+    second: ToxicDrone (1)_3
+  - first:
+      213: 540552774531769393
+    second: ToxicDrone (1)_4
+  - first:
+      213: 5355301148939207777
+    second: ToxicDrone (1)_5
+  - first:
+      213: 1435611997345849722
+    second: ToxicDrone (1)_6
+  - first:
+      213: 2248007233138601205
+    second: ToxicDrone (1)_7
+  - first:
+      213: -3101071306022772300
+    second: ToxicDrone (1)_8
+  - first:
+      213: 7141754347005428390
+    second: ToxicDrone (1)_9
+  - first:
+      213: -4451062719498670390
+    second: ToxicDrone (1)_10
+  - first:
+      213: 292591414106706194
+    second: ToxicDrone (1)_11
+  - first:
+      213: 863136380603898297
+    second: ToxicDrone (1)_12
+  - first:
+      213: -1914829562925832309
+    second: ToxicDrone (1)_13
+  - first:
+      213: 7568664492786771539
+    second: ToxicDrone (1)_14
+  - first:
+      213: 654914228935001460
+    second: ToxicDrone (1)_15
+  - first:
+      213: -2722427621974106989
+    second: ToxicDrone (1)_16
+  - first:
+      213: 1085730595984438275
+    second: ToxicDrone (1)_17
+  - first:
+      213: 4000538380847219408
+    second: ToxicDrone (1)_18
+  - first:
+      213: -832053975805364477
+    second: ToxicDrone (1)_19
+  - first:
+      213: -7606912810693919320
+    second: ToxicDrone (1)_20
+  - first:
+      213: -3471814754746880407
+    second: ToxicDrone (1)_21
+  - first:
+      213: 7063066198476141207
+    second: ToxicDrone (1)_22
+  - first:
+      213: -6869031110585504479
+    second: ToxicDrone (1)_23
+  - first:
+      213: -3828909128491674366
+    second: ToxicDrone (1)_24
+  - first:
+      213: 2652474979983819432
+    second: ToxicDrone (1)_25
+  - first:
+      213: -8571875981096365697
+    second: ToxicDrone (1)_26
+  - first:
+      213: -5546665613988389532
+    second: ToxicDrone (1)_27
+  - first:
+      213: -8722650421183973703
+    second: ToxicDrone (1)_28
+  - first:
+      213: 8747493143599020638
+    second: ToxicDrone (1)_29
+  - first:
+      213: 1485922951494532962
+    second: ToxicDrone (1)_30
+  - first:
+      213: -9121651285168474792
+    second: ToxicDrone (1)_31
+  - first:
+      213: 5895052408731209582
+    second: ToxicDrone (1)_32
+  - first:
+      213: -6602104386739492724
+    second: ToxicDrone (1)_33
+  - first:
+      213: -7355388937692441928
+    second: ToxicDrone (1)_34
+  - first:
+      213: 3378927180328183897
+    second: ToxicDrone (1)_35
+  - first:
+      213: 5698057485475941499
+    second: ToxicDrone (1)_36
+  - first:
+      213: -8540797428733742999
+    second: ToxicDrone (1)_37
+  - first:
+      213: 2926787419486678572
+    second: ToxicDrone (1)_38
+  - first:
+      213: -2194544488582540145
+    second: ToxicDrone (1)_39
+  - first:
+      213: -5361462710960904703
+    second: ToxicDrone (1)_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ToxicDrone (1)_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 811
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b273f2279546160800000000000000
+      internalID: 7017832466303363970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 811
+        width: 136
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2c5d8fd3a45d220800000000000000
+      internalID: 2509993997357138616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 811
+        width: 136
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134615c62ed608700800000000000000
+      internalID: 540552774531769393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_6
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 811
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71a61161815ce310800000000000000
+      internalID: 1435611997345849722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 588
+        width: 139
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc2cb70ba6823f10800000000000000
+      internalID: 2248007233138601205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 588
+        width: 137
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a24c5e6dbb9c1360800000000000000
+      internalID: 7141754347005428390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 588
+        width: 137
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d826475e7f0400800000000000000
+      internalID: 292591414106706194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_13
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 551
+        width: 152
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87a36068a82d65e0800000000000000
+      internalID: -1914829562925832309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 364
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356eaa4714c490960800000000000000
+      internalID: 7568664492786771539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 364
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c9589708ef73ad0800000000000000
+      internalID: -2722427621974106989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 326
+        width: 155
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d207bc2674c48730800000000000000
+      internalID: 4000538380847219408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_19
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 363
+        width: 135
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3077b224153f374f0800000000000000
+      internalID: -832053975805364477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 136
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205d00f1f6bfcdac0800000000000000
+      internalID: -3828909128491674366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_26
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 136
+        width: 136
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f715c0006349a0980800000000000000
+      internalID: -8571875981096365697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_28
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 136
+        width: 136
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6fa6118abe2f680800000000000000
+      internalID: -8722650421183973703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicDrone (1)_31
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 118
+        width: 146
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8553c861c72696180800000000000000
+      internalID: -9121651285168474792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f4ed039e2f22e63448c02499d45aaabc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ToxicDrone (1)_0: 7017832466303363970
+      ToxicDrone (1)_11: 292591414106706194
+      ToxicDrone (1)_13: -1914829562925832309
+      ToxicDrone (1)_14: 7568664492786771539
+      ToxicDrone (1)_16: -2722427621974106989
+      ToxicDrone (1)_18: 4000538380847219408
+      ToxicDrone (1)_19: -832053975805364477
+      ToxicDrone (1)_2: 2509993997357138616
+      ToxicDrone (1)_21: -3471814754746880407
+      ToxicDrone (1)_22: 7063066198476141207
+      ToxicDrone (1)_23: -6869031110585504479
+      ToxicDrone (1)_24: -3828909128491674366
+      ToxicDrone (1)_26: -8571875981096365697
+      ToxicDrone (1)_28: -8722650421183973703
+      ToxicDrone (1)_31: -9121651285168474792
+      ToxicDrone (1)_32: 5895052408731209582
+      ToxicDrone (1)_33: -6602104386739492724
+      ToxicDrone (1)_34: -7355388937692441928
+      ToxicDrone (1)_35: 3378927180328183897
+      ToxicDrone (1)_36: 5698057485475941499
+      ToxicDrone (1)_37: -8540797428733742999
+      ToxicDrone (1)_38: 2926787419486678572
+      ToxicDrone (1)_39: -2194544488582540145
+      ToxicDrone (1)_4: 540552774531769393
+      ToxicDrone (1)_40: -5361462710960904703
+      ToxicDrone (1)_6: 1435611997345849722
+      ToxicDrone (1)_7: 2248007233138601205
+      ToxicDrone (1)_9: 7141754347005428390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

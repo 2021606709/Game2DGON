@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 5a551e83e6739044583b9e0d29eae043
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8092051186366020150
+    second: ElectricFloor_0
+  - first:
+      213: 9700023936476529
+    second: ElectricFloor_1
+  - first:
+      213: -2855409044930289993
+    second: ElectricFloor_2
+  - first:
+      213: -7146151705367037954
+    second: ElectricFloor_3
+  - first:
+      213: 8983250018346821041
+    second: ElectricFloor_4
+  - first:
+      213: -3223598166835789935
+    second: ElectricFloor_5
+  - first:
+      213: 3650594166525312274
+    second: ElectricFloor_6
+  - first:
+      213: 2333846382284274941
+    second: ElectricFloor_7
+  - first:
+      213: -7822218656656260996
+    second: ElectricFloor_8
+  - first:
+      213: 6895107159690283816
+    second: ElectricFloor_9
+  - first:
+      213: 7803474308704821258
+    second: ElectricFloor_10
+  - first:
+      213: 7949805572380453605
+    second: ElectricFloor_11
+  - first:
+      213: 1824849443759095664
+    second: ElectricFloor_12
+  - first:
+      213: -5339890785257858483
+    second: ElectricFloor_13
+  - first:
+      213: 1950125515904084226
+    second: ElectricFloor_14
+  - first:
+      213: 4227991461056193019
+    second: ElectricFloor_15
+  - first:
+      213: -4686161797603917296
+    second: ElectricFloor_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElectricFloor_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 652
+        width: 205
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be1e7c2a9c8f58d0800000000000000
+      internalID: -2855409044930289993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricFloor_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 652
+        width: 209
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dbad28d0489a230800000000000000
+      internalID: 3650594166525312274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricFloor_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 652
+        width: 200
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc72606bec736020800000000000000
+      internalID: 2333846382284274941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricFloor_8
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 652
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70029e5395e17390800000000000000
+      internalID: -7822218656656260996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricFloor_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 113
+        width: 205
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea68275c02635e60800000000000000
+      internalID: 7949805572380453605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricFloor_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 113
+        width: 201
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ad25d6f95e4e5b0800000000000000
+      internalID: -5339890785257858483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricFloor_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 113
+        width: 210
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1a3ad35d7dcaa30800000000000000
+      internalID: 4227991461056193019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElectricFloor_16
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 113
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01200d56ca867feb0800000000000000
+      internalID: -4686161797603917296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 47817735eccbad348afcd5a00658f5b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ElectricFloor_0: -8092051186366020150
+      ElectricFloor_1: 9700023936476529
+      ElectricFloor_10: 7803474308704821258
+      ElectricFloor_11: 7949805572380453605
+      ElectricFloor_12: 1824849443759095664
+      ElectricFloor_13: -5339890785257858483
+      ElectricFloor_14: 1950125515904084226
+      ElectricFloor_15: 4227991461056193019
+      ElectricFloor_16: -4686161797603917296
+      ElectricFloor_2: -2855409044930289993
+      ElectricFloor_3: -7146151705367037954
+      ElectricFloor_4: 8983250018346821041
+      ElectricFloor_5: -3223598166835789935
+      ElectricFloor_6: 3650594166525312274
+      ElectricFloor_7: 2333846382284274941
+      ElectricFloor_8: -7822218656656260996
+      ElectricFloor_9: 6895107159690283816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

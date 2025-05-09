@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: df3636fed2fba9e4a9d3e05333d815c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5074620758109223406
+    second: PoisonBee (1)_0
+  - first:
+      213: 5099170638216383755
+    second: PoisonBee (1)_1
+  - first:
+      213: -6887282881059704842
+    second: PoisonBee (1)_2
+  - first:
+      213: -572740518965098583
+    second: PoisonBee (1)_3
+  - first:
+      213: 1664011986907243645
+    second: PoisonBee (1)_4
+  - first:
+      213: -7994810171395077130
+    second: PoisonBee (1)_5
+  - first:
+      213: -4182540062024735552
+    second: PoisonBee (1)_6
+  - first:
+      213: -8290880265670923845
+    second: PoisonBee (1)_7
+  - first:
+      213: -4653229057826591730
+    second: PoisonBee (1)_8
+  - first:
+      213: -8617973109028045151
+    second: PoisonBee (1)_9
+  - first:
+      213: 7239529294192262199
+    second: PoisonBee (1)_10
+  - first:
+      213: 1403174989422084709
+    second: PoisonBee (1)_11
+  - first:
+      213: -3243258468021619066
+    second: PoisonBee (1)_12
+  - first:
+      213: 2512060133239589090
+    second: PoisonBee (1)_13
+  - first:
+      213: -935808175239736169
+    second: PoisonBee (1)_14
+  - first:
+      213: -41662411203118743
+    second: PoisonBee (1)_15
+  - first:
+      213: 45347532088485986
+    second: PoisonBee (1)_16
+  - first:
+      213: -7012465333434492258
+    second: PoisonBee (1)_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoisonBee (1)_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 767
+        width: 192
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee97ce861bcac6640800000000000000
+      internalID: 5074620758109223406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 767
+        width: 187
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d4dfbcda4e3c640800000000000000
+      internalID: 5099170638216383755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_2
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 767
+        width: 185
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffaec6c5b47b60a0800000000000000
+      internalID: -6887282881059704842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 754
+        width: 187
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7cc9258873d08f0800000000000000
+      internalID: -572740518965098583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 495
+        width: 190
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d742995f512c71710800000000000000
+      internalID: 1664011986907243645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 496
+        width: 211
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb0157e18abc0190800000000000000
+      internalID: -7994810171395077130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_6
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 497
+        width: 186
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4ec2049f1a4f5c0800000000000000
+      internalID: -4182540062024735552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 533
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeb3880e1fc66880800000000000000
+      internalID: -8617973109028045151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 262
+        width: 162
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c3d515989f77460800000000000000
+      internalID: 7239529294192262199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 262
+        width: 161
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5624732f734197310800000000000000
+      internalID: 1403174989422084709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 263
+        width: 152
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6863bca5b91adf2d0800000000000000
+      internalID: -3243258468021619066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_13
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 262
+        width: 154
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e88a28b161acd220800000000000000
+      internalID: 2512060133239589090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 44
+        width: 159
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794dde83c675303f0800000000000000
+      internalID: -935808175239736169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 44
+        width: 162
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96970cbf14cfb6ff0800000000000000
+      internalID: -41662411203118743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_16
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 45
+        width: 154
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2682395175b11a000800000000000000
+      internalID: 45347532088485986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonBee (1)_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 44
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a55e0dee7beae90800000000000000
+      internalID: -7012465333434492258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7d5798581d27a54cb2a18b385c080fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PoisonBee (1)_0: 5074620758109223406
+      PoisonBee (1)_1: 5099170638216383755
+      PoisonBee (1)_10: 7239529294192262199
+      PoisonBee (1)_11: 1403174989422084709
+      PoisonBee (1)_12: -3243258468021619066
+      PoisonBee (1)_13: 2512060133239589090
+      PoisonBee (1)_14: -935808175239736169
+      PoisonBee (1)_15: -41662411203118743
+      PoisonBee (1)_16: 45347532088485986
+      PoisonBee (1)_17: -7012465333434492258
+      PoisonBee (1)_2: -6887282881059704842
+      PoisonBee (1)_3: -572740518965098583
+      PoisonBee (1)_4: 1664011986907243645
+      PoisonBee (1)_5: -7994810171395077130
+      PoisonBee (1)_6: -4182540062024735552
+      PoisonBee (1)_7: -8290880265670923845
+      PoisonBee (1)_8: -4653229057826591730
+      PoisonBee (1)_9: -8617973109028045151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
