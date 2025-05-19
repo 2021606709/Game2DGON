@@ -32,6 +32,7 @@ Transform:
   - {fileID: 1644996927322352712}
   - {fileID: 7238443592144259779}
   - {fileID: 1350310463059791495}
+  - {fileID: 1795492409208714864}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2704865668661376890
@@ -78,10 +79,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cebe28805adfcf4d897e4cc72c01104, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 3ffe7df9d234dbc4d8119690ffbb2265, type: 3}
+  sprite: {fileID: 21300000, guid: bb476a96ecf075e41b977f79ccc061fa, type: 3}
   paralaxSpeed: 0.4
   copies: 3
-  yOffset: -0.5
+  yOffset: -1
 --- !u!1 &3693364032267067270
 GameObject:
   m_ObjectHideFlags: 0
@@ -146,7 +147,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7238443592144259779
 Transform:
   m_ObjectHideFlags: 0
@@ -178,3 +179,51 @@ MonoBehaviour:
   paralaxSpeed: 0.3
   copies: 3
   yOffset: -0.5
+--- !u!1 &8352238965942064627
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1795492409208714864}
+  - component: {fileID: 8390508689066625218}
+  m_Layer: 0
+  m_Name: ParallaxUnderBackground
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1795492409208714864
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8352238965942064627}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1055881044237658797}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8390508689066625218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8352238965942064627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cebe28805adfcf4d897e4cc72c01104, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 25a9c61d8b3b96d4491b8d2d33ebf2e2, type: 3}
+  paralaxSpeed: 0.5
+  copies: 3
+  yOffset: -12

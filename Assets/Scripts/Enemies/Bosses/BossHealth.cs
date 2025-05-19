@@ -3,6 +3,7 @@ using UnityEngine;
 public class BossHealth : MonoBehaviour
 {
     [SerializeField] private BossBurnerBeeStatsSO boss;
+    [SerializeField] private GameObject portalToActive;
     private int currentHealth;
 
     private void Start()
@@ -22,8 +23,11 @@ public class BossHealth : MonoBehaviour
 
     private void Die()
     {
-        // Play death animation, disable boss AI
-        Destroy(gameObject);
+        if(portalToActive != null)
+        {
+            portalToActive.SetActive(true);
+        }
+        Destroy(gameObject); 
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

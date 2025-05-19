@@ -37,14 +37,18 @@ public class PlayerController : MonoBehaviour
     private void HandleMovement(){
         float moveInput = Input.GetAxis("Horizontal");
         rb.linearVelocity = new Vector2(moveInput * playerStatsSO.moveSpeed, rb.linearVelocity.y);
-        if(moveInput > 0){
+        
+        if (moveInput > 0)
+        {
             transform.localScale = new Vector3(1, 1, 1);
-        }else if(moveInput < 0){
+        }
+        else if (moveInput < 0)
+        {
             transform.localScale = new Vector3(-1, 1, 1);
         }
     }
     private void HandleJump(){
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer);
 
         if(isGrounded && !wasGrounded){
             currentJumpCount = maxJumpCount;
@@ -56,10 +60,6 @@ public class PlayerController : MonoBehaviour
             currentJumpCount--;
         }
         wasGrounded = isGrounded;
-        // if(Input.GetButtonDown("Jump") && isGrounded){
-        //     rb.linearVelocity = new Vector2(rb.linearVelocity.x, playerStatsSO.jumpForce);
-        // }
-        // isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
 
     public float GetHorizontalInput(){

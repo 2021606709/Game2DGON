@@ -249,7 +249,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 832
   groundCheck: {fileID: 9048386284089844686}
-  maxJumpCount: 1
+  maxJumpCount: 2
 --- !u!114 &7215251541837736200
 MonoBehaviour:
   m_ObjectHideFlags: 0

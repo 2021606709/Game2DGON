@@ -40,5 +40,6 @@ public class PoisonProjectile : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        
     }
 }

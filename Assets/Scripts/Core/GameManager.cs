@@ -76,9 +76,15 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1;
         SceneManager.LoadScene("MainMenu");
     }
+    public void LoadNextLevel()
+    {
+        int currentLevel = SceneManager.GetActiveScene().buildIndex;
+        Time.timeScale = 1;
+        SceneManager.LoadScene("Level" + (currentLevel + 1));
+    }
     public void AddScore(int points)
     {
-        if(!isGameOver)
+        if (!isGameOver)
         {
             score += points;
             UIManager.Instance.UpdateScore(score);
@@ -99,12 +105,6 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void LoadNextLevel()
-    {
-        int currentLevel = SceneManager.GetActiveScene().buildIndex;
-        Time.timeScale = 1;
-        SceneManager.LoadScene("Level" + (currentLevel + 1));
-    }
     // public void LoadNextLevel()
     // {
     //     Time.timeScale = 1;

@@ -17,6 +17,6 @@ MonoBehaviour:
   visionRange: 6
   maxHealth: 70
   damage: 10
-  shootInterval: 2
+  shootInterval: 3.5
   projectileSpeed: 3
   enemyProjectilePrefab: {fileID: 6656376697380757361, guid: c4d10d9905e091249ad72a1b461180d3, type: 3}

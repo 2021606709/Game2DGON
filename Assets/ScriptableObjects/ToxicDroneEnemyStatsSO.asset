@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 3
   patrolRange: 3
-  visionRange: 5
+  visionRange: 7
   maxHealth: 50
   damage: 20
-  shootInterval: 1
-  projectileSpeed: 7
+  shootInterval: 1.5
+  projectileSpeed: 5
   enemyProjectilePrefab: {fileID: 3551184636204531221, guid: 37044af306ced2c45950215551d4674a, type: 3}
