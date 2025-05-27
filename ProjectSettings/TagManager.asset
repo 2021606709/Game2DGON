@@ -11,6 +11,7 @@ TagManager:
   - Ground
   - PlayerProjectile
   - EnemyProjectile
+  - NPC
   layers:
   - Default
   - TransparentFX

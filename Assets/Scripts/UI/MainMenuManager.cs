@@ -4,6 +4,7 @@ public class MainMenuManager : MonoBehaviour
     [Header("UI Elements")]
     [SerializeField] private GameObject mainMenuUI;
     [SerializeField] private GameObject settingsUI;
+    [SerializeField] private GameObject guideUI;
 
     [SerializeField] private AudioClip menuMusic;
 
@@ -55,7 +56,14 @@ public class MainMenuManager : MonoBehaviour
     public void OnClickGuide()
     {
         //Load the guide scene
-        SceneLoader.LoadScene("Guide");
+        mainMenuUI.SetActive(false);
+        guideUI.SetActive(true);
+    }
+    public void OnClickBackToMainMenuFromGuide()
+    {
+        //Load the main menu scene
+        guideUI.SetActive(false);
+        mainMenuUI.SetActive(true);
     }
     public void OnClickQuitGame()
     {

@@ -3,8 +3,9 @@ using UnityEngine;
 public class PlayerHealth : MonoBehaviour
 {
     [SerializeField] private PlayerStatsSO playerStatsSO;
+    public static PlayerHealth Instance { get; private set; }
     private int currentHealth;
-    private Animator animator; 
+    private Animator animator;
     private bool isDeath = false;
     private int lives = 3;
 
@@ -13,6 +14,7 @@ public class PlayerHealth : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        Instance = this;
         animator = GetComponent<Animator>();
         currentHealth = playerStatsSO.maxHealth;
 
@@ -26,7 +28,7 @@ public class PlayerHealth : MonoBehaviour
 
     public void TakeDamage(int amount)
     {
-        if (isDeath) 
+        if (isDeath)
         {
             return;
         }
@@ -39,7 +41,7 @@ public class PlayerHealth : MonoBehaviour
         if (currentHealth <= 0)
         {
             lives--;
-            if(lives > 0)
+            if (lives > 0)
             {
                 Respawn();
             }
@@ -52,7 +54,7 @@ public class PlayerHealth : MonoBehaviour
     }
     public void Die()
     {
-        if(isDeath) 
+        if (isDeath)
         {
             return;
         }
@@ -63,7 +65,8 @@ public class PlayerHealth : MonoBehaviour
     private void TriggerGameOver()
     {
         GameManager gameManager = FindAnyObjectByType<GameManager>();
-        if(gameManager != null){
+        if (gameManager != null)
+        {
             gameManager.GameOver();
         }
     }
@@ -75,5 +78,16 @@ public class PlayerHealth : MonoBehaviour
         currentHealth = GameManager.Instance.GetCheckPointHealth();
         UIManager.Instance.UpdateHealth(currentHealth, MaxHealth);
         animator.Play("Idle");
+    }
+
+    public void GainLife()
+    {
+        lives++;
+        currentHealth = CurrentHealth + 20;
+        if(currentHealth > MaxHealth)
+        {
+            currentHealth = MaxHealth;
+        }
+        UIManager.Instance.UpdateHealth(currentHealth, MaxHealth);
     }
 }
